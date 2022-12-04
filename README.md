@@ -1,0 +1,2 @@
+# NLP_Task_6_B_Legal_Named_Entities_Extraction
+NLP-Shared Task
