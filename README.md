@@ -25,7 +25,7 @@ The results for the Preamble can be found as below:
 ![alt text](https://github.com/nikp1307/NLP_Task_6_B_Legal_Named_Entities_Extraction/blob/main/Preamble_test.png)]
 
 ## Steps to run the project
-1. Clone the git project
+1. Clone the git project.
 2. GPU is required for the execution. Use an executor which has a GPU which can be used. Some of the sites are Kaggle, Google Collab, etc.
 3. Upload the dataset for training and test data. (The SemEval Training data is available [here](https://storage.googleapis.com/indianlegalbert/OPEN_SOURCED_FILES/NER/NER_TRAIN.zip) and Dev data is available [here](https://storage.googleapis.com/indianlegalbert/OPEN_SOURCED_FILES/NER/NER_DEV.zip).)
 4. Upload the config file. 
